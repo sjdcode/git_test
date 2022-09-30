@@ -4,7 +4,6 @@ import java.util.Date;
 
 public class FirstController {
     public static void main(String[] args) {
-        System.out.println("早上");
-        System.out.println("中午");
+        System.out.println("1");
     }
 }
