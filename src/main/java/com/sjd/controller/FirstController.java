@@ -13,6 +13,6 @@ public class FirstController {
         System.out.println("hello git !");
         System.out.println();
 
-        System.out.println(new Date());
+        System.out.println("张三");
     }
 }
