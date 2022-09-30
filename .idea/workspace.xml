@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="664c50d1-730e-4bb6-bd7b-83addb191f5b" name="变更" comment="3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="664c50d1-730e-4bb6-bd7b-83addb191f5b" name="变更" comment="我写我的controller">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sjd/controller/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sjd/controller/FirstController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="hot3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -136,7 +136,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664547411380</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="添加了mapper">
+      <created>1664547907107</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664547907107</updated>
+    </task>
+    <task id="LOCAL-00011" summary="我写我的controller">
+      <created>1664547954052</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664547954052</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +167,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="hot2" />
+                        <option value="hot3" />
                       </list>
                     </value>
                   </entry>
@@ -174,6 +188,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="3" />
-    <option name="LAST_COMMIT_MESSAGE" value="3" />
+    <MESSAGE value="添加了mapper" />
+    <MESSAGE value="我写我的controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="我写我的controller" />
   </component>
 </project>
