@@ -8,4 +8,8 @@ public class FirstController {
         System.out.println("4");
         System.out.println("5");
     }
+
+    public void queryAllUser(){
+        System.out.println("查询所有用户");
+    }
 }
