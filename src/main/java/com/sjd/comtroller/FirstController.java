@@ -18,6 +18,6 @@ public class FirstController {
     }
 
     public void C(){
-        System.out.println("C了");
+        System.out.println("C了pull测试");
     }
 }
