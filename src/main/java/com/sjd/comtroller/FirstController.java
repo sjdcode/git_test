@@ -9,6 +9,10 @@ public class FirstController {
         System.out.println("5");
     }
 
+    public void queryAllUser(){
+        System.out.println("查询所有用户");
+    }
+
     public void delectAllUser(){
         System.out.println("删除全部用户");
     }
