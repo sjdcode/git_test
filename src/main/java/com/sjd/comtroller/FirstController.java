@@ -16,4 +16,8 @@ public class FirstController {
     public void delectAllUser(){
         System.out.println("删除全部用户");
     }
+
+    public void C(){
+        System.out.println("C");
+    }
 }
