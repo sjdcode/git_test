@@ -16,8 +16,8 @@ public class FirstController {
     public void delectAllUser(){
         System.out.println("删除全部用户");
     }
-
+    
     public void C(){
-        System.out.println("C了pull测试");
+        System.out.println("C了pull测试,重新测试master是否会默认合并");
     }
 }
