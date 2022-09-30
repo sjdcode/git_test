@@ -1,6 +1,4 @@
-package com.sjd.controller;
-
-import java.util.Date;
+package com.sjd.comtroller;
 
 public class FirstController {
     public static void main(String[] args) {
