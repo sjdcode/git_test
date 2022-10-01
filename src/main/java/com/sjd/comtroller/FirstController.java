@@ -20,4 +20,9 @@ public class FirstController {
     public void C(){
         System.out.println("C了pull测试,重新测试master是否会默认合并");
     }
+    
+    public void A(){
+        System.out.println("新增一个方法")
+    }
+    
 }
