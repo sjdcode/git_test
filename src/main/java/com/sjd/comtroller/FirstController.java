@@ -22,7 +22,7 @@ public class FirstController {
     }
     
     public void A(){
-        System.out.println("新增一个方法")
+        System.out.println("新增一个方法");
     }
     
 }
